@@ -7,9 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBasicsApplication {
 
 	public static void main(String[] args) {
-		//Creating the object of binarySearchImpl class
-		/* BinarySearchImpl binarySearchImpl = new BinarySearchImpl(); */
-		
+			
 		/**
 		 * Creating the object of binarySearchImpl class using the Sort alogrithm object needed
 		 * Based on the need of algorithm needed, this initiazation can be changed 
